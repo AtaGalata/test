@@ -1,0 +1,19 @@
+{
+  "name": "discord.js-v12",
+  "version": "1.0.0",
+  "description": "Discord V12 Empty Bot",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "^0.0.1-security",
+    "selenium-webdriver": "^4.10.0"
+  },
+  "author": "AtaGalata",
+  "license": "MIT",
+  "engines": {
+    "node": "v14.x"
+  }
+}
